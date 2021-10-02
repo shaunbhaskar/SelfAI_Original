@@ -1,0 +1,43 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+#Body_1
+{
+background-image: url("Bck.jpg");
+}
+#logo_img
+{
+height: 50px;
+width: 50px;
+}
+#h3_1{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+font-weight: bold;
+color: ivory;
+}
+#h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    font-weight: bold;
+    color: ivory;
+    text-align: left;
+    }
+#camera{
+border-style: solid;
+color: ivory;
+}
